@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="hasil">hasil</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+
+        <item>A Time Called You</item>
+        <item>Extraordinary You</item>
+        <item>Hometown Cha-Cha-Cha</item>
+        <item>Mr. Queen</item>
+        <item>My ID Is Gangnam Beauty</item>
+        <item>Reply 1988</item>
+        <item>School 2015</item>
+        <item>School 2017</item>
+        <item>Sweet Home</item>
+        <item>The Worst of Evil</item>
+        <item>True Beauty</item>
+        <item>Twenty Five Twenty One</item>
+        <item>Twinkling Watermelon</item>
+        <item>W - Two World</item>
+        <item>Youth of May</item>
+
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Eun Dan Oh (Kim Hye Yoon) adalah seorang siswa di akademi bergengsi, tetapi dia memiliki kondisi jantung. Suatu hari secara kebetulan, dia menemukan bahwa dia dan semua orang di dunianya sebenarnya adalah karakter dalam manhwa yang disebut Rahasia. Lebih buruk lagi, Dan Oh hanya karakter kecil dalam cerita ini dan diperkirakan akan segera mati. Tidak puas dengan nasib ini, ia memutuskan untuk menempa takdirnya sendiri dengan mengubah alur cerita dan menemukan cinta sejatinya sendiri.</item>
+        <item>Sebuah kisah cinta berlatar desa tepi laut Gongjin. Yoon Hye-Jin (Shin Min-A) bekerja sebagai dokter gigi. Dia sebagian besar adalah seorang realis, tetapi karena haknya, yang hanya sebagian kecil dari pikirannya, hidupnya berubah. Dia akhirnya pindah ke desa tepi laut Gongjin. Di sana, Yoon Hye-Jin bertemu Hong Du-Sik (Kim Sun-Ho). Dia menjadi penasaran tentang dia. Hong Du-Sik disebut Kepala Hong oleh penduduk setempat. Dia adalah pria yang tampan dan pintar. Secara resmi, dia menganggur, tetapi dia selalu tampak sibuk. Jika seseorang membutuhkan bantuan, Hong Du-Sik adalah orang pertama yang muncul dan memberikan bantuan</item>
+        <item>Pada era modern, Jang Bong-hwan bekerja sebagai koki di Rumah Biru Presiden. Dia memiliki jiwa yang bebas, tetapi entah bagaimana jiwanya menemukan jalan ke dalam tubuh Ratu Cheorin (Shin Hye-sun) pada periode Joseon. Raja Cheoljong (Kim Jung-hyun) adalah orang yang lembut dan santai secara lahiriah tetapi memiliki sisi yang berbeda juga. Ratu Sunwon (Bae Jong-ok) adalah istri almarhum Raja Sunjo yang memegang kekuasaan sejati di negara itu dan menjadikan Raja Cheoljong sebagai raja boneka. Kim Jwa-geun (Kim Tae-woo) adalah adik yang ambisius dari Ratu Sunwon.</item>
+        <item>My ID Is Gangnam Beauty menceritakan Kang Mi Rae (Im Soo Hyang), wanita yang memasuki semester pertama kuliah yang telah melakukan operasi plastik setelah dibully karena wajahnya. Meskipun sudah cantik, dia tetap saja diledek dengan “Gangnam Beauty”. Sementara itu, Do Kyung Suk (Cha Eun Woo) diceritakan sebagai seorang laki-laki yang terlahir tampan dan berada di universitas yang sama dengan Mi Rae. Ia digambarkan sebagai orang yang tidak menilai orang lain dari penampilannya saja. Dia peduli pada apa yang ada di dalam daripada yang ada di luar.</item>
+        <item>Drama Korea Reply 1988 Sub Indo menceritakan tentang para sahabat yang bernama Duk Sun, Jung Hwan, Sun Woo dan Dong Ryong, mereka semua adalah siswa SMA satu sekolah di Korea Selatan, bagi mereka semua sudah dianggap sebagai seorang keluarga sendiri sampai masalah yang ada pada setiap temannya selalu diceritakan dan saling berbagi saran satu sama lain.</item>
+        <item>SMA Segang adalah sekolah top yang terletak di Distrik Gangnam, Seoul. Salah satu siswa, Lee Eun Bi (Kim So Hyun), bangun suatu hari tanpa mengetahui siapa dia. Setelah mengetahui bahwa ia digunakan untuk bully, ia berubah sendiri dan menjadi populer. Dia kemudian mencoba untuk memulihkan ingatannya hilang, dan dalam proses, menemukan kebenaran yang tersembunyi di belakang sekolah yang terkenal.</item>
+        <item>Drama ini menceritakan secara realistis berbagai masalah yang dapat dihadapi oleh siswa sekolah menengah. Ra Eun Ho hanyalah salah satunya, berjuang untuk bertahan hidup di sekolah yang mendiskriminasi orang kaya dan miskin, dan percaya bahwa siswa terbaik adalah siswa dengan nilai terbaik. Eun Ho adalah seorang gadis ceria, ceria gadis 18 tahun yang mimpi adalah menjadi artis webtoon. Ketika dia keliru terjebak dalam upaya siswa lain untuk mengirim sekolah ke dalam kekacauan, Ra Eun Ho dijebak sebagai Siswa X legendaris, seorang pembuat onar misterius yang identitasnya tidak diketahui, dan tiba-tiba, semua aspirasinya berada dalam risiko. Bergabung dengannya adalah Hyun Tae Woon, putra direktur sekolah dengan kepribadian yang sulit dan masa lalu yang bermasalah. Dalam kecelakaan sepeda motor, ia kehilangan sahabatnya dan dari sana, hidupnya berubah. Dia tegang, menyendiri dan kasar, tetapi karena dia tahu kutub berlawanan Ra Eun Ho, pandangannya tentang dunia berubah. Dia jatuh cinta padanya, dan bersama-sama dengan sesama siswa, mereka memutuskan untuk melawan sistem sekolah mereka yang korup dan membuat perubahan.</item>
+        <item>Drama korea "Sweet Home" bercerita tentang seorang siswa SMA bernama Cha Hyun Soo yang diperankan Song Kang. Cha Hyun Soo adalah sosok anak lelaki yang terusir dan berusaha mengisolasi diri di dalam apartemennya setelah kehilangan anggota keluarganya dengan tragis.  Ditambah lagi, berbagai kejadian aneh yang tidak masuk akal dan mengerikan selalu menghantuinya. Di sisi lain, kota dalam teror wabah misterius dimana para manusia tiba-tiba berubah menjadi monster dan membuat suasana menjadi makin mencekam. Cha Hyun Soo ini pun berubah menjadi sosok yang bisa menolong mereka untuk bebas dan melawan para monster. Sayangnya kondisi yang mereka hadapi tidak sesederhana itu, karena berbagai kejadian mengerikan membuat mereka semakin kalut.Para penghuni apartemen berusaha bertahan hidup sembari mempertahankan sisi manusia mereka di tengah situasi yang semakin menggila.</item>
+        <item>Dalam drama The Worst of Evil, Ji Chang Wook berperan sebagai Park Joon Mo, seorang petugas polisi yang ditugaskan untuk menyusup dan menginvestigasi dunia kejahatan di Kota Seoul. Park Joon Mo dihadapkan dengan tantangan berat ketika harus menelusuri operasi dari salah satu geng paling berbahaya, Gangnam Crystal. Geng ini dikenal sebagai distributor obat-obatan terlarang yang tidak hanya memiliki jaringan di Korea tetapi juga telah merambah ke skala internasional. Organisasi kriminal Gangnam Crystal berada di bawah komando Jung Ki Cheol, yang diperankan oleh Wi Ha Joon. Ki Cheol, seorang mantan DJ, dikenal memiliki karakter yang ambisius dan kejam. Dalam usahanya untuk mempertahankan kekuasaan dan memperluas bisnisnya, ia tidak ragu menggunakan metode brutal dan licik. Sebagai petugas polisi yang berdedikasi, Park Joon Mo memiliki tekad kuat untuk mengungkap kebenaran di balik operasi gelap ini. Meski memiliki tekad yang sama kuatnya dengan Ki Cheol, Joon Mo harus menemukan cara untuk diterima dan bisa berbaur di dalam geng tersebut. Dalam perjalanannya, ia dihadapkan pada berbagai rintangan dan bahaya yang menguji keberanian serta ketahanannya. Dalam setiap tindakannya di lingkungan kriminal ini membawa risiko yang bisa mengancam nyawanya.</item>
+        <item>True Beauty adalah sebuah drama komedi romantis tentang seorang gadis sekolah menengah atas Lim Ju Gyeong, yang menjadi gadis cantik terkenal setelah dia menguasai seni make-up dari YouTube. Dia berubah menjadi seorang dewi karena keterampilan rias wajahnya, tetapi lebih memilih mati daripada menunjukkan wajahnya yang telanjang kepada siapa pun. Ini menceritakan kisah cintanya dengan satu-satunya anak lelaki yang melihatnya tanpa riasan, Lee Su Ho. Lee adalah seorang anak laki-laki yang menarik dan tampan yang tampak dingin karena masa lalunya yang kelam tetapi sebenarnya sangat perhatian. Mereka tumbuh saat bertemu satu sama lain untuk berbagi rahasia dan menemukan cinta satu sama lain, tetapi dapatkah Su Ho membuat Ju Gyeong menemukan kecantikan aslinya?</item>
+        <item>Drama ini mengisahkan mengenai kisah yang dimiliki oleh para pemuda pada tahun 1998 untuk mencari makna kehidupan dan menemukan mimpi-mimpi mereka. Na Hee Do adalah anggota tim anggar SMA-nya namun kemudian timnya menjadi dibubarkan. Apalagi tim tersebut dibubarkan karena adanya krisis keuangan yang dialami oleh Korea Selatan. Krisis tersebut ternyata juga mengubah kehidupan yang dimiliki seorang pria bernama Baek Yi Jin. Pasalnya selama ini ia hidup dengan bantuan dari uang yang dihasilkan oleh Ayahnya melalui bisnis sukses yang dimiliki. Kemudian ia mengubah hidupnya dengan belajar dan bekerja paruh waktu.  Akhirnya ia menjadi reporter olahraga untuk sebuah jaringan penyiaran.</item>
+        <item>Twinkling Watermelon berkisah tentang Eun Gyeol (Ryeo Un), siswa sekolah menengah yang hidupnya terlihat biasa-biasa saja. Namun, di malam hari ia berubah menjadi seorang gitaris dan bergabung di sebuah grup band di Hongdae. Tiba-tiba, ia melakukan perjalanan ke masa lalu dan bertemu dengan sosok Lee Chan (Choi Hyun Wook). Mereka kemudian membentuk band bernama Watermelon Sugar, keduanya pun menjadi sahabat dan saling bergantung satu sama lain. Suatu hari, Eun Gyeol bertemu dengan gadis misterius dan mereka jatuh cinta.</item>
+        <item>W menceritakan tentang kisah cinta dua insan yang menginjak usia 30. Keduanya hidup di era yang sama namun di dunia yang berbeda. Oh Yun Joo (diperankan oleh Han Hyo Joo) adalah seorang dokter bedah sekaligus putri dari seorang penulis komik terkenal. Suatu ketika, ayahnya menghilang. Ia pun bergegas ke ruang kerja ayahnya untuk mencari keberadaan ayahnya. Bukannya menemukan sang ayah, Yun Joo justru menemukan seorang pria aneh, Kang Chul (diperankan oleh Lee Jong Suk) yang bermandikan darah. Kang Chul pun menculik Yun Joo dan membawanya ke dimensi lain.</item>
+        <item>Youth of May merupakan serial drama Korea yang berlatar pada 1980 ketika masa pemberontakan Gwang Ju. Kisahnya berkutat pada hubungan asmara Hwang Hee Tae (Lee Do Hyun) dan Kim Myung Hee (Go Min Si). Hwang Hee Tae merupakan orang yang cerdas dan penuh semangat. Karena kecerdasannya, ia berhasil masuk ke Sekolah Tinggi Kedokteran Universitas Nasional Seoul. Terlebih lagi, ia juga pandai bermain musik. Di sisi lain, Kim Myung Hee merupakan seorang perantau di Gwangju. Meski ia hidup sendiri, hari-harinya tetap dipenuhi berbagai kesibukan dalam pekerjaannya sebagai seorang perawat. Berkat pendiriannya yang rajin dan tegar, Myung Hee selalu berani berbuat yang baik dan benar. Kisah cinta Hee Tae dan Myung Hee selalu dipenuhi dengan tawa dan senyum. Sejak keduanya bertemu, mereka sudah memiliki perasaan bahwa mereka ditakdirkan untuk bersama. Namun, cinta mereka tidak bisa berjalan dengan mudah. Karena kekacauan di era mereka, hubungan Hee Tae dan Myung Hee harus diuji oleh serangkaian kejadian buruk. Akankah takdir bisa mempersatukan mereka di tengah kekacauan yang melanda Seoul?</item>
+        <item>A Time Called You berkisah tentang Jun Hee (Jeon Yeo Been). Setiap hari, ia merindukan kekasihnya yang sudah meninggal setahun lalu. Lalu, entah bagaimana caranya, tiba-tiba ia melakukan perjalanan waktu dan kembali ke tahun 1998. Di tahun tersebut, ia berubah menjadi siswi SMA bernama Kwon Min Joo (Jeon Yeo Bin). Di sekolah, dia bertemu siswa bernama Nam Shi Heon (Ahn Hyo Seop). Dia terkejut karena Shi Heon sangat mirip dengan mendiang pacarnya, Ku Yeon Joon (Ahn Hyo Seop). Nam Shi Heon adalah siswa yang ramah dan menarik secara fisik. Dia dipuja oleh para siswi. Sementara itu, Jung In Kyu (Kang Hoon) berteman baik dengan Nam Shi Heon dan dia mulai menyukai Kwon Min Joo. Saat itu, terjadilah kisah cinta segitiga yang pahit dan muncul insiden misterius yang mengancam Min Joo.</item>
+
+    </string-array>
+    <array name="music_id">
+        <item>@raw/videoatimecalledyou</item>
+        <item>@raw/videoextraordinaryyou</item>
+        <item>@raw/videohometownchachacha</item>
+        <item>@raw/videomrqueen</item>
+        <item>@raw/videomyidisgangnambeauty</item>
+        <item>@raw/videoreply1988</item>
+        <item>@raw/videoschool2015</item>
+        <item>@raw/videoschool2017</item>
+        <item>@raw/videosweethome</item>
+        <item>@raw/videotheworstofevil</item>
+        <item>@raw/videotruebeauty</item>
+        <item>@raw/videotwentyfivetwentyone</item>
+        <item>@raw/videotwinklingwatermelon</item>
+        <item>@raw/videowtwoworld</item>
+        <item>@raw/videoyouthofmay</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/atimecalledyou</item>
+        <item>@drawable/extraordinaryyou</item>
+        <item>@drawable/hometown</item>
+        <item>@drawable/mrqueen</item>
+        <item>@drawable/myidisgangnambeauty</item>
+        <item>@drawable/reply1988</item>
+        <item>@drawable/school2015</item>
+        <item>@drawable/school2017</item>
+        <item>@drawable/sweethome</item>
+        <item>@drawable/theworstofevil</item>
+        <item>@drawable/truebeauty</item>
+        <item>@drawable/twentyfivetwentyone</item>
+        <item>@drawable/twinklingwatermelon</item>
+        <item>@drawable/wtwoworlds</item>
+        <item>@drawable/youthofmay</item>
+
+    </integer-array>
+</resources>
